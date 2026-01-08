@@ -43,3 +43,7 @@ To change these settings, simply edit the `.env` file in the root directory of t
 - Local LLM server
 
 If you're using a different LLM server configuration, you may need to modify the`.env` file.
+
+<img width="1843" height="878" alt="Screenshot 2026-01-08 102052" src="https://github.com/user-attachments/assets/68ae8683-f77b-4972-9f06-cb6aa401e24c" />
+
+
